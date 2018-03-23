@@ -1,9 +1,7 @@
 {
-	"profiles":[
-		{"id": 1, "name": "Juan uno", "age": 21},	
-		{"id": 2, "name": "Juan dos", "age": 22},	
-		{"id": 3, "name": "Juan tres", "age": 23},	
-		{"id": 4, "name": "Juan cuatro", "age": 24},	
-		{"id": 5, "name": "Juan cinco", "age": 25}
+	"profiles": [
+		{"id": 1, "name": "uno", "age": 21},	
+		{"id": 2, "name": "dos", "age": 22},	
+		{"id": 3, "name": "tres", "age": 23}
 	]
 }
